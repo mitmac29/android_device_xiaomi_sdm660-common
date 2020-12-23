@@ -913,15 +913,6 @@ vendor/lib64/libminkdescriptor.so|9c8cae26e9d9e2a9b18f1ec8c153696aa7a5c885
 vendor/lib64/libnative-api.so|fd6cf92e0347452288758b6ecc25b449535ecb61
 vendor/lib64/libqcbor.so|7da5294a577f5a71ede5b3804a026bf69bd025ee
 
-# SSR - from LA.UM.8.2.r1-07500-sdm660.0
-vendor/bin/ssr_diag|24a3afbe2a0015c97e2e8c3ff5b4f7f158ebdf9f
-vendor/bin/ssr_setup|9cf9be4e2fe295a5e9313ffbb461603a9fd33e82
-vendor/bin/subsystem_ramdump|95d767081c102039dc96e2b00781cf43607cf1ea
-vendor/lib/libSubSystemShutdown.so|7714c39dd503f3121f87b877811fa8ac6e8b7247
-vendor/lib/libsubsystem_control.so|fe08da9f6a0e73a97231055c4ca8279a68432476
-vendor/lib64/libSubSystemShutdown.so|c934b2df57be86fdfb9bdf2046f9289af5e7a62c
-vendor/lib64/libsubsystem_control.so|b2e8c7eb9d999137ae99ea38f85d7dac59c6dcc2
-
 # Thermal - from wayne Miui 9.7.4
 -vendor/lib/libthermalclient.so|d5c6c82b15423e95e991d757bab1b4a27fb88848
 -vendor/lib64/libthermalclient.so|3412ce67da6a58d7f44a65e6b8af8cc5bfb9f506

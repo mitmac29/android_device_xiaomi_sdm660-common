@@ -7,7 +7,7 @@ ro.config.media_vol_steps=25
 ro.config.vc_call_vol_steps=7
 
 # Bluetooth
-persist.vendor.bt.a2dp_offload_cap=sbc-aac-aptx-aptxhd-ldac
+persist.vendor.bt.a2dp_offload_cap=sbc-aac-aptx-aptxhd
 vendor.bluetooth.soc=cherokee
 
 # Blur

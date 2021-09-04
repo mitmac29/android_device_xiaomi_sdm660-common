@@ -12,3 +12,4 @@ allow init {
     firmware_file
 }:filesystem getattr;
 
+allow init system_file:file mounton;

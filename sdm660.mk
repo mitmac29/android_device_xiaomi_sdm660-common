@@ -297,7 +297,6 @@ PRODUCT_COPY_FILES += \
 
 # IFAAService
 PRODUCT_PACKAGES += \
-    IFAAService \
     org.ifaa.android.manager
 
 # IFAA JAR

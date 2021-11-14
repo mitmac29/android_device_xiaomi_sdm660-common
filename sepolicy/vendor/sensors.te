@@ -1,0 +1,2 @@
+allow sensors persist_file:dir search;
+allow sensors persist_file:lnk_file read;

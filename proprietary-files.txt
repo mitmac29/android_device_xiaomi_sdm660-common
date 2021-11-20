@@ -921,15 +921,6 @@ vendor/lib64/libminkdescriptor.so|9c8cae26e9d9e2a9b18f1ec8c153696aa7a5c885
 vendor/lib64/libnative-api.so|fd6cf92e0347452288758b6ecc25b449535ecb61
 vendor/lib64/libqcbor.so|7da5294a577f5a71ede5b3804a026bf69bd025ee
 
-# Soter - from LA.UM.8.2.r1-06200-sdm660.0
--app/SoterService/SoterService.apk|482523fabe02255e7ab6f80fbaaabe32c8fb3be9
-
-# Soter - from LA.UM.8.2.r1-07500-sdm660.0
-vendor/bin/hw/vendor.qti.hardware.soter@1.0-service|37f9501fa45a69ba3a27fd338704d76afc534bcb
-vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc|76447a61ad5529949365eeb7e8ca000e48bd28ae
-vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so|1f27eb012650705a40fac8fec6d0b2dd10a1ec22
-vendor/lib64/vendor.qti.hardware.soter@1.0.so|b08f0d2e92e0adce42127b5f978fa6bb22326ce1
-
 # SSR - from LA.UM.8.2.r1-07500-sdm660.0
 vendor/bin/ssr_diag|24a3afbe2a0015c97e2e8c3ff5b4f7f158ebdf9f
 vendor/bin/ssr_setup|9cf9be4e2fe295a5e9313ffbb461603a9fd33e82

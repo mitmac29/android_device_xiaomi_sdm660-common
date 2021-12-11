@@ -596,7 +596,8 @@ PRODUCT_PACKAGES += \
     WifiOverlay \
     wpa_supplicant \
     wpa_supplicant.conf \
-    wpa_cli
+    wpa_cli \
+    libwpa_client
 
 # WiFi Configs
 PRODUCT_COPY_FILES += \

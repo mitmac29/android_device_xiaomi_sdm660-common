@@ -596,11 +596,11 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
     hostapd \
     libwifi-hal-qcom \
+    libwpa_client \
     WifiOverlay \
     wpa_supplicant \
     wpa_supplicant.conf \
-    wpa_cli \
-    libwpa_client
+    wpa_cli
 
 # WiFi Configs
 PRODUCT_COPY_FILES += \

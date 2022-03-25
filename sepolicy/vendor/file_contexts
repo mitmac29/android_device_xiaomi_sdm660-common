@@ -37,6 +37,9 @@
 # (e.g. Google Camera App)
 /mnt/vendor/dsp/fastrpc_shell_3                                                                                             u:object_r:public_adsprpcd_file:s0
 
+# Hall Switch
+/sys/module/hall/parameters(/.*)?                                                                                           u:object_r:hall_dev:s0
+
 # HW Info
 /sys/devices/platform/HardwareInfo(/.*)? u:object_r:sysfs_info:s0
 /sys/devices/platform/HardwareInfo/gsensor  u:object_r:sysfs_info:s0

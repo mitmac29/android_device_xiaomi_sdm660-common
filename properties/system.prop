@@ -33,6 +33,9 @@ persist.vendor.dpm.feature=1
 # Disable GC freed lines
 dalvik.vm.debug.alloc=0
 
+# Disable vsync for cpu rendered apps
+debug.cpurend.vsync=false
+
 # Display
 debug.performance.tuning=1
 persist.vendor.color.matrix=2

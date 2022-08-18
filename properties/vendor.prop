@@ -131,6 +131,7 @@ persist.dirac.acs.storeSettings=1
 # Display
 debug.cpurend.vsync=false
 debug.hwui.use_buffer_age=false
+debug.sf.disable_client_composition_cache=1
 debug.sdm.support_writeback=0
 vendor.display.disable_skip_validate=1
 vendor.gralloc.enable_fb_ubwc=1

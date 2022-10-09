@@ -184,6 +184,9 @@ endif
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := $(COMMON_PATH)
 
+# Renderscript
+OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
+
 # RIL
 PROTOBUF_SUPPORTED := true
 ENABLE_VENDOR_RIL_SERVICE := true

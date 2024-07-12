@@ -157,6 +157,9 @@ BOARD_SUPER_PARTITION_METADATA_DEVICE := system
 BOARD_SUPER_PARTITION_BLOCK_DEVICES := system vendor cust
 BOARD_SUPER_PARTITION_CUST_DEVICE_SIZE := 872415232
 
+# Partitions - reserved size
+-include vendor/lineage/config/BoardConfigReservedSize.mk
+
 # Platform
 BOARD_VENDOR_PLATFORM := xiaomi-sdm660
 

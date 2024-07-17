@@ -997,4 +997,17 @@
     <!-- Whether the new Auto Selection Network UI should be shown -->
     <bool name="config_enableNewAutoSelectNetworkUI">true</bool>
 
+    <!-- Build properties from a GMS certified device against current platform SPL level -->
+    <string-array name="config_certifiedBuildProperties" translatable="false">
+        <item>google</item>   <!-- Build.BRAND -->
+        <item>Google</item>   <!-- Build.MANUFACTURER -->
+        <item>angler</item>   <!-- Build.DEVICE -->
+        <item>angler</item>   <!-- Build.PRODUCT -->
+        <item>Nexus 6P</item> <!-- Build.MODEL -->
+        <item>NPD90G/3051502</item> <!-- Build.ID -->
+        <item>google/angler/angler:7.0/NPD90G/3051502:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>2016-07-05</item> <!-- Build.SECURITY_PATCH -->
+        <item>23</item> <!-- Build.DEVICE_INITIAL_SDK_INT -->
+    </string-array>
+
 </resources>
